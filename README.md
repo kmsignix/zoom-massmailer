@@ -45,6 +45,8 @@ MassMailer is a no-code solution, so there is no installation of code required. 
 the demo files, they should be downloaded to a local desktop. To get the files in a zip file,
 use the Release package, and then extract the files from the zip archive.
 
+Note that the email addresses in the CSVs will need to be updated to your choice of email addresses.
+
 ## Usage
 There are two scenarios covered by the sample files:
 1. Data collection in volume
@@ -73,7 +75,12 @@ When analyzing your document / form, you should identify:
 ![MassMailer-Form-Analysis](https://github.com/user-attachments/assets/a262421f-5463-42f2-bcec-77bbb8b807c4)
 
 To prepare the CSV file that will contain the distribution list, prepopulated data and columns for data collection, follow the instructions here:
-https://knowledge.signix.com/helpcenter/how-do-i-create-the-mass-mailer-csv-import-file 
+https://knowledge.signix.com/helpcenter/how-do-i-create-the-mass-mailer-csv-import-file
+
+Note: included in the options for the CSV is the abiity to specify the authentication method.
+This allows MassMailer to be used in conjunction with SMS for 2-Factor Authentication or other 
+authentication methods such as Knowledge-Based Authentication (KBA) or ID Verify (government ID check and
+video selfie / biometrics).
 
 And, for more general information on using MassMailer, click here:
 https://knowledge.signix.com/helpcenter/how-do-i-use-the-mass-mailer-feature
