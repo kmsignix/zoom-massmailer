@@ -62,14 +62,15 @@ There are two scenarios covered by the sample files:
    4. Acknowledgements can be tracked.
 
 In both scenarios, the general process of using MassMailer is as follows:
-<<<< Insert MassMailer Process graphic >>>>
+
+![MassMailer-Process](https://github.com/user-attachments/assets/8bb3185f-9a48-4763-bf1a-f43e071ae0e7)
 
 When analyzing your document / form, you should identify:
 - Personalized / prepopulated fields
 - Data collection fields
 - Signature and date fields
 
-<<<<< Insert example form graphic >>>>>
+![MassMailer-Form-Analysis](https://github.com/user-attachments/assets/a262421f-5463-42f2-bcec-77bbb8b807c4)
 
 To prepare the CSV file that will contain the distribution list, prepopulated data and columns for data collection, follow the instructions here:
 https://knowledge.signix.com/helpcenter/how-do-i-create-the-mass-mailer-csv-import-file 
@@ -78,7 +79,7 @@ And, for more general information on using MassMailer, click here:
 https://knowledge.signix.com/helpcenter/how-do-i-use-the-mass-mailer-feature
 
 A screen-by-screen walkthrough of the two scenarios is included in the sample files.
-<<<<< Walkthrough screens >>>>>
+[MassMailer Walkthrough Screens](https://github.com/kmsignix/zoom-massmailer/blob/main/MassMailer%20Walkthrough%20Screens.pdf)
 
 The output of the MassMailer report feature has columns for both tag names and tag values. To transform the MassMailer 
 report data into a more general-purpose format, an Excel file containing a Power Query is used and included in the sample files.
